@@ -11,6 +11,8 @@
 .mtj.tmp/
 
 # Package Files #
+fleet.dat
+users.dat
 *.jar
 *.war
 *.nar
